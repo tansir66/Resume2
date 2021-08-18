@@ -1,0 +1,57 @@
+h1{
+    font-family: 'Inconsolata', monospace;
+font-family: 'Mulish', sans-serif;
+}
+#ss {
+    
+    color: brown;
+}
+body{
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    height: 500px;
+    s  
+}
+#pd{
+    padding: 150px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+    
+    border-radius: 100%;
+}
+.dbutton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.single-xp{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+}
+#line{
+    border-left: 7px solid greenyellow;
+}
+#line2{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 3;
+}
+footer p{
+    text-align: center;
+}
